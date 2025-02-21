@@ -1,5 +1,5 @@
 {
-  "lastCommitSha": "a09e92705e0c243f6c569856f85416fcd3f1afd0",
+  "lastCommitSha": "e922f77de601dcfe112d2f77f3fa800c714483d8",
   "catalog": [
     {
       "championName": "Aatrox",
@@ -12764,69 +12764,6 @@
           "loadingScreenUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Evelynn_7.jpg"
         },
         {
-          "skinName": "Coven Evelynn",
-          "skinId": 24,
-          "rarity": "kLegendary",
-          "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/28/24.fantome",
-          "loadingScreenUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Evelynn_24.jpg",
-          "chromas": [
-            {
-              "chromaId": 25,
-              "chromaColors": [
-                "#D33528",
-                "#D33528"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/28/25.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/28/28025.png"
-            },
-            {
-              "chromaId": 26,
-              "chromaColors": [
-                "#2756CE",
-                "#2756CE"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/28/26.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/28/28026.png"
-            },
-            {
-              "chromaId": 27,
-              "chromaColors": [
-                "#E58BA5",
-                "#E58BA5"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/28/27.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/28/28027.png"
-            },
-            {
-              "chromaId": 28,
-              "chromaColors": [
-                "#ECF9F8",
-                "#ECF9F8"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/28/28.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/28/28028.png"
-            },
-            {
-              "chromaId": 29,
-              "chromaColors": [
-                "#27211C",
-                "#27211C"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/28/29.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/28/28029.png"
-            },
-            {
-              "chromaId": 30,
-              "chromaColors": [
-                "#162B30",
-                "#8E0A38"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/28/30.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/28/28030.png"
-            }
-          ]
-        },
-        {
           "skinName": "K/DA ALL OUT Evelynn",
           "skinId": 15,
           "rarity": "kEpic",
@@ -21115,13 +21052,6 @@
           "loadingScreenUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Jax_21.jpg"
         },
         {
-          "skinName": "Neo PAX Jax",
-          "skinId": 32,
-          "rarity": "kMythic",
-          "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/24/32.fantome",
-          "loadingScreenUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Jax_32.jpg"
-        },
-        {
           "skinName": "Mecha Kingdoms Jax",
           "skinId": 14,
           "rarity": "kLegendary",
@@ -22274,37 +22204,6 @@
       "championSquare": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/222.png",
       "championAlias": "Jinx",
       "skins": [
-        {
-          "skinName": "Arcane Fractured Jinx",
-          "skinId": 60,
-          "rarity": "kExalted",
-          "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/222/60.fantome",
-          "loadingScreenUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Jinx_60.jpg",
-          "chromas": [
-            {
-              "chromaId": 1,
-              "chromaColors": [
-                "#FF69B4",
-                "#FF1493"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/222/exalted_forms/1.fantome",
-              "chromaImage": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/222/exalted_forms/models_image/1.png",
-              "loadingScreenUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Jinx_1.jpg",
-              "shortName": "Form One"
-            },
-            {
-              "chromaId": 2,
-              "chromaColors": [
-                "#9370DB",
-                "#4B0082"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/222/exalted_forms/2.fantome",
-              "chromaImage": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/222/exalted_forms/models_image/2.png",
-              "loadingScreenUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Jinx_2.jpg",
-              "shortName": "Form Two"
-            }
-          ]
-        },
         {
           "skinName": "Prestige Battle Cat Jinx",
           "skinId": 40,
@@ -25227,87 +25126,6 @@
           "rarity": "kEpic",
           "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/55/10.fantome",
           "loadingScreenUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Katarina_10.jpg"
-        },
-        {
-          "skinName": "Battle Academia Katarina",
-          "skinId": 12,
-          "rarity": "kEpic",
-          "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/55/12.fantome",
-          "loadingScreenUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Katarina_12.jpg",
-          "chromas": [
-            {
-              "chromaId": 13,
-              "chromaColors": [
-                "#D33528",
-                "#D33528"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/55/13.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/55/55013.png"
-            },
-            {
-              "chromaId": 14,
-              "chromaColors": [
-                "#111112",
-                "#EAF1F4"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/55/14.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/55/55014.png"
-            },
-            {
-              "chromaId": 15,
-              "chromaColors": [
-                "#2756CE",
-                "#2756CE"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/55/15.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/55/55015.png"
-            },
-            {
-              "chromaId": 16,
-              "chromaColors": [
-                "#54209B",
-                "#54209B"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/55/16.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/55/55016.png"
-            },
-            {
-              "chromaId": 17,
-              "chromaColors": [
-                "#27211C",
-                "#27211C"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/55/17.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/55/55017.png"
-            },
-            {
-              "chromaId": 18,
-              "chromaColors": [
-                "#DF9117",
-                "#DF9117"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/55/18.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/55/55018.png"
-            },
-            {
-              "chromaId": 19,
-              "chromaColors": [
-                "#ECF9F8",
-                "#ECF9F8"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/55/19.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/55/55019.png"
-            },
-            {
-              "chromaId": 20,
-              "chromaColors": [
-                "#73BFBE",
-                "#73BFBE"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/55/20.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/55/55020.png"
-            }
-          ]
         },
         {
           "skinName": "Blood Moon Katarina",
@@ -31476,6 +31294,87 @@
           ]
         },
         {
+          "skinName": "Masked Justice Lucian",
+          "skinId": 62,
+          "rarity": "kEpic",
+          "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/236/62.fantome",
+          "loadingScreenUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Lucian_62.jpg",
+          "chromas": [
+            {
+              "chromaId": 63,
+              "chromaColors": [
+                "#D33528",
+                "#D33528"
+              ],
+              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/236/63.fantome",
+              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/236/236063.png"
+            },
+            {
+              "chromaId": 64,
+              "chromaColors": [
+                "#2DA130",
+                "#2DA130"
+              ],
+              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/236/64.fantome",
+              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/236/236064.png"
+            },
+            {
+              "chromaId": 65,
+              "chromaColors": [
+                "#54209B",
+                "#54209B"
+              ],
+              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/236/65.fantome",
+              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/236/236065.png"
+            },
+            {
+              "chromaId": 66,
+              "chromaColors": [
+                "#2756CE",
+                "#2756CE"
+              ],
+              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/236/66.fantome",
+              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/236/236066.png"
+            },
+            {
+              "chromaId": 67,
+              "chromaColors": [
+                "#E58BA5",
+                "#E58BA5"
+              ],
+              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/236/67.fantome",
+              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/236/236067.png"
+            },
+            {
+              "chromaId": 68,
+              "chromaColors": [
+                "#FFEE59",
+                "#FFEE59"
+              ],
+              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/236/68.fantome",
+              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/236/236068.png"
+            },
+            {
+              "chromaId": 69,
+              "chromaColors": [
+                "#27211C",
+                "#27211C"
+              ],
+              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/236/69.fantome",
+              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/236/236069.png"
+            },
+            {
+              "chromaId": 70,
+              "chromaColors": [
+                "#ECF9F8",
+                "#ECF9F8"
+              ],
+              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/236/70.fantome",
+              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/236/236070.png"
+            }
+          ]
+        },
+        {
           "skinName": "Heartseeker Lucian",
           "skinId": 7,
           "rarity": "kEpic",
@@ -34810,95 +34709,6 @@
               ],
               "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/11/8.fantome",
               "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/11/11008.png"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "championName": "Mel",
-      "championKey": 800,
-      "championSquare": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/800.png",
-      "championAlias": "Mel",
-      "skins": [
-        {
-          "skinName": "Arcane Councilor Mel",
-          "skinId": 1,
-          "rarity": "kEpic",
-          "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/800/1.fantome",
-          "loadingScreenUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Mel_1.jpg",
-          "chromas": [
-            {
-              "chromaId": 2,
-              "chromaColors": [
-                "#D33528",
-                "#D33528"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/800/2.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/800/800002.png"
-            },
-            {
-              "chromaId": 3,
-              "chromaColors": [
-                "#73BFBE",
-                "#73BFBE"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/800/3.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/800/800003.png"
-            },
-            {
-              "chromaId": 4,
-              "chromaColors": [
-                "#54209B",
-                "#54209B"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/800/4.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/800/800004.png"
-            },
-            {
-              "chromaId": 5,
-              "chromaColors": [
-                "#FFEE59",
-                "#FFEE59"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/800/5.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/800/800005.png"
-            },
-            {
-              "chromaId": 6,
-              "chromaColors": [
-                "#E58BA5",
-                "#E58BA5"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/800/6.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/800/800006.png"
-            },
-            {
-              "chromaId": 7,
-              "chromaColors": [
-                "#2756CE",
-                "#2756CE"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/800/7.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/800/800007.png"
-            },
-            {
-              "chromaId": 8,
-              "chromaColors": [
-                "#27211C",
-                "#27211C"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/800/8.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/800/800008.png"
-            },
-            {
-              "chromaId": 9,
-              "chromaColors": [
-                "#ECF9F8",
-                "#ECF9F8"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/800/9.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/800/800009.png"
             }
           ]
         }
@@ -46732,13 +46542,6 @@
       "championAlias": "Rumble",
       "skins": [
         {
-          "skinName": "Super Galaxy Rumble",
-          "skinId": 3,
-          "rarity": "kLegendary",
-          "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/68/3.fantome",
-          "loadingScreenUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Rumble_3.jpg"
-        },
-        {
           "skinName": "Space Groove Rumble",
           "skinId": 13,
           "rarity": "kEpic",
@@ -48537,6 +48340,87 @@
           ]
         },
         {
+          "skinName": "Masked Justice Senna",
+          "skinId": 63,
+          "rarity": "kEpic",
+          "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/235/63.fantome",
+          "loadingScreenUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Senna_63.jpg",
+          "chromas": [
+            {
+              "chromaId": 64,
+              "chromaColors": [
+                "#D33528",
+                "#D33528"
+              ],
+              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/235/64.fantome",
+              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/235/235064.png"
+            },
+            {
+              "chromaId": 65,
+              "chromaColors": [
+                "#2DA130",
+                "#2DA130"
+              ],
+              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/235/65.fantome",
+              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/235/235065.png"
+            },
+            {
+              "chromaId": 66,
+              "chromaColors": [
+                "#9C68D7",
+                "#9C68D7"
+              ],
+              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/235/66.fantome",
+              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/235/235066.png"
+            },
+            {
+              "chromaId": 67,
+              "chromaColors": [
+                "#FFEE59",
+                "#FFEE59"
+              ],
+              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/235/67.fantome",
+              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/235/235067.png"
+            },
+            {
+              "chromaId": 68,
+              "chromaColors": [
+                "#E58BA5",
+                "#E58BA5"
+              ],
+              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/235/68.fantome",
+              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/235/235068.png"
+            },
+            {
+              "chromaId": 69,
+              "chromaColors": [
+                "#ECF9F8",
+                "#ECF9F8"
+              ],
+              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/235/69.fantome",
+              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/235/235069.png"
+            },
+            {
+              "chromaId": 70,
+              "chromaColors": [
+                "#2756CE",
+                "#2756CE"
+              ],
+              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/235/70.fantome",
+              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/235/235070.png"
+            },
+            {
+              "chromaId": 71,
+              "chromaColors": [
+                "#27211C",
+                "#27211C"
+              ],
+              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/235/71.fantome",
+              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/235/235071.png"
+            }
+          ]
+        },
+        {
           "skinName": "Senna",
           "skinId": 0,
           "rarity": "kNoRarity",
@@ -49092,37 +48976,6 @@
       "championSquare": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/875.png",
       "championAlias": "Sett",
       "skins": [
-        {
-          "skinName": "Radiant Serpent Sett",
-          "skinId": 66,
-          "rarity": "kExalted",
-          "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/875/66.fantome",
-          "loadingScreenUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Sett_66.jpg",
-          "chromas": [
-            {
-              "chromaId": 1,
-              "chromaColors": [
-                "#0000FF",
-                "#000080"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/875/exalted_forms/1.fantome",
-              "chromaImage": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/875/exalted_forms/models_image/1.png",
-              "loadingScreenUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Sett_1.jpg",
-              "shortName": "Form One"
-            },
-            {
-              "chromaId": 2,
-              "chromaColors": [
-                "#EFBF04",
-                "#EFB000"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/875/exalted_forms/2.fantome",
-              "chromaImage": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/875/exalted_forms/models_image/2.png",
-              "loadingScreenUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Sett_2.jpg",
-              "shortName": "Form Two"
-            }
-          ]
-        },
         {
           "skinName": "Prestige Obsidian Dragon Sett",
           "skinId": 9,
@@ -66529,584 +66382,6 @@
       ]
     },
     {
-      "championName": "Yone",
-      "championKey": 777,
-      "championSquare": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/777.png",
-      "championAlias": "Yone",
-      "skins": [
-        {
-          "skinName": "Prestige HEARTSTEEL Yone",
-          "skinId": 46,
-          "rarity": "kMythic",
-          "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/46.fantome",
-          "loadingScreenUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Yone_46.jpg"
-        },
-        {
-          "skinName": "Peacemaker High Noon Yone",
-          "skinId": 58,
-          "rarity": "kMythic",
-          "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/58.fantome",
-          "loadingScreenUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Yone_58.jpg"
-        },
-        {
-          "skinName": "Dawnbringer Yone",
-          "skinId": 19,
-          "rarity": "kLegendary",
-          "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/19.fantome",
-          "loadingScreenUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Yone_19.jpg",
-          "chromas": [
-            {
-              "chromaId": 20,
-              "chromaColors": [
-                "#D33528",
-                "#D33528"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/20.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777020.png"
-            },
-            {
-              "chromaId": 21,
-              "chromaColors": [
-                "#2DA130",
-                "#2DA130"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/21.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777021.png"
-            },
-            {
-              "chromaId": 22,
-              "chromaColors": [
-                "#E58BA5",
-                "#E58BA5"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/22.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777022.png"
-            },
-            {
-              "chromaId": 23,
-              "chromaColors": [
-                "#ECF9F8",
-                "#ECF9F8"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/23.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777023.png"
-            },
-            {
-              "chromaId": 24,
-              "chromaColors": [
-                "#27211C",
-                "#27211C"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/24.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777024.png"
-            },
-            {
-              "chromaId": 25,
-              "chromaColors": [
-                "#73BFBE",
-                "#A67400"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/25.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777025.png"
-            }
-          ]
-        },
-        {
-          "skinName": "High Noon Yone",
-          "skinId": 55,
-          "rarity": "kLegendary",
-          "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/55.fantome",
-          "loadingScreenUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Yone_55.jpg",
-          "chromas": [
-            {
-              "chromaId": 59,
-              "chromaColors": [
-                "#D33528",
-                "#D33528"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/59.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777059.png"
-            },
-            {
-              "chromaId": 60,
-              "chromaColors": [
-                "#2DA130",
-                "#2DA130"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/60.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777060.png"
-            },
-            {
-              "chromaId": 61,
-              "chromaColors": [
-                "#54209B",
-                "#54209B"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/61.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777061.png"
-            },
-            {
-              "chromaId": 62,
-              "chromaColors": [
-                "#E58BA5",
-                "#E58BA5"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/62.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777062.png"
-            },
-            {
-              "chromaId": 63,
-              "chromaColors": [
-                "#27211C",
-                "#27211C"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/63.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777063.png"
-            },
-            {
-              "chromaId": 64,
-              "chromaColors": [
-                "#9DB3E1",
-                "#CD5867"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/64.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777064.png"
-            }
-          ]
-        },
-        {
-          "skinName": "Spirit Blossom Yone",
-          "skinId": 1,
-          "rarity": "kEpic",
-          "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/1.fantome",
-          "loadingScreenUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Yone_1.jpg",
-          "chromas": [
-            {
-              "chromaId": 2,
-              "chromaColors": [
-                "#D33528",
-                "#D33528"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/2.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777002.png"
-            },
-            {
-              "chromaId": 3,
-              "chromaColors": [
-                "#6ABBEE",
-                "#6ABBEE"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/3.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777003.png"
-            },
-            {
-              "chromaId": 4,
-              "chromaColors": [
-                "#FFEE59",
-                "#FFEE59"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/4.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777004.png"
-            },
-            {
-              "chromaId": 5,
-              "chromaColors": [
-                "#2DA130",
-                "#2DA130"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/5.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777005.png"
-            },
-            {
-              "chromaId": 6,
-              "chromaColors": [
-                "#E58BA5",
-                "#E58BA5"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/6.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777006.png"
-            },
-            {
-              "chromaId": 7,
-              "chromaColors": [
-                "#54209B",
-                "#54209B"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/7.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777007.png"
-            },
-            {
-              "chromaId": 8,
-              "chromaColors": [
-                "#0C0C0F",
-                "#B2D1E4"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/8.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777008.png"
-            },
-            {
-              "chromaId": 9,
-              "chromaColors": [
-                "#27211C",
-                "#27211C"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/9.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777009.png"
-            }
-          ]
-        },
-        {
-          "skinName": "Battle Academia Yone",
-          "skinId": 10,
-          "rarity": "kEpic",
-          "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/10.fantome",
-          "loadingScreenUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Yone_10.jpg",
-          "chromas": [
-            {
-              "chromaId": 11,
-              "chromaColors": [
-                "#D33528",
-                "#D33528"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/11.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777011.png"
-            },
-            {
-              "chromaId": 12,
-              "chromaColors": [
-                "#27211C",
-                "#27211C"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/12.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777012.png"
-            },
-            {
-              "chromaId": 13,
-              "chromaColors": [
-                "#DF9117",
-                "#DF9117"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/13.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777013.png"
-            },
-            {
-              "chromaId": 14,
-              "chromaColors": [
-                "#9C68D7",
-                "#9C68D7"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/14.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777014.png"
-            },
-            {
-              "chromaId": 15,
-              "chromaColors": [
-                "#6ABBEE",
-                "#6ABBEE"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/15.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777015.png"
-            },
-            {
-              "chromaId": 16,
-              "chromaColors": [
-                "#2756CE",
-                "#2756CE"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/16.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777016.png"
-            },
-            {
-              "chromaId": 17,
-              "chromaColors": [
-                "#2DA130",
-                "#2DA130"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/17.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777017.png"
-            },
-            {
-              "chromaId": 18,
-              "chromaColors": [
-                "#ECF9F8",
-                "#ECF9F8"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/18.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777018.png"
-            }
-          ]
-        },
-        {
-          "skinName": "Ocean Song Yone",
-          "skinId": 26,
-          "rarity": "kEpic",
-          "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/26.fantome",
-          "loadingScreenUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Yone_26.jpg",
-          "chromas": [
-            {
-              "chromaId": 27,
-              "chromaColors": [
-                "#D33528",
-                "#D33528"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/27.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777027.png"
-            },
-            {
-              "chromaId": 28,
-              "chromaColors": [
-                "#2756CE",
-                "#2756CE"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/28.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777028.png"
-            },
-            {
-              "chromaId": 29,
-              "chromaColors": [
-                "#2DA130",
-                "#2DA130"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/29.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777029.png"
-            },
-            {
-              "chromaId": 30,
-              "chromaColors": [
-                "#E58BA5",
-                "#E58BA5"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/30.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777030.png"
-            },
-            {
-              "chromaId": 31,
-              "chromaColors": [
-                "#FFEE59",
-                "#FFEE59"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/31.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777031.png"
-            },
-            {
-              "chromaId": 32,
-              "chromaColors": [
-                "#54209B",
-                "#54209B"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/32.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777032.png"
-            },
-            {
-              "chromaId": 33,
-              "chromaColors": [
-                "#ECF9F8",
-                "#ECF9F8"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/33.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777033.png"
-            },
-            {
-              "chromaId": 34,
-              "chromaColors": [
-                "#27211C",
-                "#27211C"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/34.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777034.png"
-            }
-          ]
-        },
-        {
-          "skinName": "Inkshadow Yone",
-          "skinId": 35,
-          "rarity": "kEpic",
-          "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/35.fantome",
-          "loadingScreenUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Yone_35.jpg",
-          "chromas": [
-            {
-              "chromaId": 36,
-              "chromaColors": [
-                "#D33528",
-                "#D33528"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/36.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777036.png"
-            },
-            {
-              "chromaId": 37,
-              "chromaColors": [
-                "#DF9117",
-                "#DF9117"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/37.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777037.png"
-            },
-            {
-              "chromaId": 38,
-              "chromaColors": [
-                "#2756CE",
-                "#2756CE"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/38.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777038.png"
-            },
-            {
-              "chromaId": 39,
-              "chromaColors": [
-                "#2DA130",
-                "#2DA130"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/39.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777039.png"
-            },
-            {
-              "chromaId": 40,
-              "chromaColors": [
-                "#54209B",
-                "#54209B"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/40.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777040.png"
-            },
-            {
-              "chromaId": 41,
-              "chromaColors": [
-                "#E58BA5",
-                "#E58BA5"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/41.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777041.png"
-            },
-            {
-              "chromaId": 42,
-              "chromaColors": [
-                "#73BFBE",
-                "#73BFBE"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/42.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777042.png"
-            },
-            {
-              "chromaId": 43,
-              "chromaColors": [
-                "#27211C",
-                "#27211C"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/43.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777043.png"
-            },
-            {
-              "chromaId": 44,
-              "chromaColors": [
-                "#B5CED6",
-                "#33D889"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/44.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777044.png"
-            }
-          ]
-        },
-        {
-          "skinName": "HEARTSTEEL Yone",
-          "skinId": 45,
-          "rarity": "kEpic",
-          "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/45.fantome",
-          "loadingScreenUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Yone_45.jpg",
-          "chromas": [
-            {
-              "chromaId": 47,
-              "chromaColors": [
-                "#D33528",
-                "#D33528"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/47.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777047.png"
-            },
-            {
-              "chromaId": 48,
-              "chromaColors": [
-                "#27211C",
-                "#27211C"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/48.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777048.png"
-            },
-            {
-              "chromaId": 49,
-              "chromaColors": [
-                "#2DA130",
-                "#2DA130"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/49.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777049.png"
-            },
-            {
-              "chromaId": 50,
-              "chromaColors": [
-                "#ECF9F8",
-                "#ECF9F8"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/50.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777050.png"
-            },
-            {
-              "chromaId": 51,
-              "chromaColors": [
-                "#2756CE",
-                "#2756CE"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/51.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777051.png"
-            },
-            {
-              "chromaId": 52,
-              "chromaColors": [
-                "#E58BA5",
-                "#E58BA5"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/52.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777052.png"
-            },
-            {
-              "chromaId": 53,
-              "chromaColors": [
-                "#54209B",
-                "#54209B"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/53.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777053.png"
-            },
-            {
-              "chromaId": 54,
-              "chromaColors": [
-                "#DF9117",
-                "#DF9117"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/54.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777054.png"
-            },
-            {
-              "chromaId": 56,
-              "chromaColors": [
-                "#CDE9EF",
-                "#E9628F"
-              ],
-              "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/56.fantome",
-              "chromaImage": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/777/777056.png"
-            }
-          ]
-        },
-        {
-          "skinName": "Yone",
-          "skinId": 0,
-          "rarity": "kNoRarity",
-          "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/777/0.fantome",
-          "loadingScreenUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Yone_0.jpg"
-        }
-      ]
-    },
-    {
       "championName": "Yorick",
       "championKey": 83,
       "championSquare": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/83.png",
@@ -68420,6 +67695,13 @@
           "rarity": "kMythic",
           "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/238/30.fantome",
           "loadingScreenUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Zed_30.jpg"
+        },
+        {
+          "skinName": "Quantum Galaxy Slayer Zed",
+          "skinId": 68,
+          "rarity": "kMythic",
+          "downloadUrl": "https://raw.githubusercontent.com/koobzaar/lol-skins-developer/main/238/68.fantome",
+          "loadingScreenUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Zed_68.jpg"
         },
         {
           "skinName": "Galaxy Slayer Zed",
@@ -70946,5 +70228,5 @@
       ]
     }
   ],
-  "lastUpdated": 1739657807300
+  "lastUpdated": 1740099099937
 }
